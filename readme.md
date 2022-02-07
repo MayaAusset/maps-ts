@@ -9,9 +9,9 @@
 This project is the first project I made using TypeScript.  
 
 ## Technologies used 
--TypeScript 
--HTML 
--Faker 
+-TypeScript  
+-HTML  
+-Faker  
 -GoogleMaps API 
 
 ## Setup 
