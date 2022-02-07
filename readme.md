@@ -9,10 +9,10 @@
 This project is the first project I made using TypeScript.  
 
 ## Technologies used 
--TypeScript
--HTML  
--Faker
--GoogleMaps API
+-TypeScript 
+-HTML 
+-Faker 
+-GoogleMaps API 
 
 ## Setup 
 To run this project, you will need Node.js and NPM installed.  
